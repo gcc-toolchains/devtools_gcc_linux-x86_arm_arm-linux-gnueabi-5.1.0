@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/liminghao/leeminghao/gcc-toolchains/gcc/gcc-5.1.0/configure --target=arm-linux-gnueabi --prefix=/home/liminghao/leeminghao/gcc-toolchains/out/arm-linux-gnueabi/arm-linux-gnueabi-5.1.0 --build=x86_64-linux-gnu --host=x86_64-linux-gnu --with-gnu-as --with-gnu-ld --enable-languages=c,c++ --with-gmp=/home/liminghao/leeminghao/gcc-toolchains/out/arm-linux-gnueabi/temp-install --with-mpfr=/home/liminghao/leeminghao/gcc-toolchains/out/arm-linux-gnueabi/temp-install --with-mpc=/home/liminghao/leeminghao/gcc-toolchains/out/arm-linux-gnueabi/temp-install --with-isl=/home/liminghao/leeminghao/gcc-toolchains/out/arm-linux-gnueabi/temp-install --disable-isl-version-check --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --disable-libssp --enable-threads --disable-nls --disable-libmudflap --disable-libgomp --disable-sjlj-exceptions --disable-libitm --with-float=soft --with-fpu=vfp --with-arch=armv5te --enable-target-optspace --with-sysroot=/home/liminghao/leeminghao/gcc-toolchains/out/arm-linux-gnueabi/arm-linux-gnueabi-5.1.0/arm-linux-gnueabi/sysroot --enable-shared --enable-lto --enable-tls --enable-symvers=gnu --enable-__cxa_atexit --disable-libstdcxx-pch --enable-extra-sgxxlite-multilibs --enable-poison-system-directories";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "arch", "armv5te" }, { "float", "soft" }, { "fpu", "vfp" }, { "tls", "gnu" } };
